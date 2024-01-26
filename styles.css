@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+#title {
+	 text-align: center;
+	
+}
+body {
+	background-color: rgb(68,68,68);
+	color: white;
+}
+#nav-actor {
+	color: pink;
+}
+#nav-quote {
+	
+	color: pink;
+}
